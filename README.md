@@ -1,5 +1,5 @@
 # Resign
-A smart tool to resign ipa by Xcode.
+A toy demo to resign ipa by Xcode.
 
 # Avaiable
 - Open this prj by Xcode
